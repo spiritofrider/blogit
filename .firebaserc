@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "blogit-81857": {
+      "hosting": {
+        "blogIt": [
+          "blogit-81857"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "blogit-81857"
+  }
+}
